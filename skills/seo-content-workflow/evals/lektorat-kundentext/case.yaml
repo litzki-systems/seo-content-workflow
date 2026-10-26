@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: lektorat-kundentext
+expected_outcome: |
+  Der lektorierte Text in Sie-Anrede mit Doppelpunkt-Gendern, ohne Floskeln, Gedankenstriche, Passiv- und Konjunktivkonstruktionen, mit gleichem Inhalt (Fristen, Verspätungszuschlag, Beratung) und unverändertem Fokus-Keyword, dazu eine Änderungsliste.
+context:
+  scaffold_script: place-files.sh

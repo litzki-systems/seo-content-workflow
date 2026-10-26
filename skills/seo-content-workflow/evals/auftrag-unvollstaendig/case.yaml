@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: auftrag-unvollstaendig
+expected_outcome: |
+  Der Skill startet nicht mit einem fertigen Text, sondern fragt in einer einzigen Nachricht die fehlenden Pflichtangaben ab (u. a. Fokus-Keyword aus der Recherche, Zielgruppe, Wortzahl, Kernaussage, Pain Points) und nennt die Standardwerte, die sonst gelten. Er schlägt keine Suchvolumen vor.

@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: blogbeitrag-aus-keywordanalyse
+expected_outcome: |
+  Ein vollständiger Ratgeber zu „Wärmepumpe Altbau“ in Sie-Anrede, rund 900 Wörter, mit Auftragskarte, Text, SEO-Angaben, Links, Bildern, Prüfprotokoll und offenen Fragen an den Kunden. Keine erfundene Erfahrung des Betriebs, keine ungeprüften externen Links, keine erfundenen Zahlen.
+context:
+  scaffold_script: place-files.sh

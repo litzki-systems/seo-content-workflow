@@ -1,0 +1,16 @@
+{
+  "name": "litzki-systems",
+  "description": "Claude-Plugins von Litzki Systems für SEO und Content.",
+  "owner": {
+    "name": "Thorsten Litzki",
+    "url": "https://litzki-systems.com"
+  },
+  "plugins": [
+    {
+      "name": "seo-content-workflow",
+      "source": "./",
+      "description": "Deutschsprachige SEO-Texte in sieben geprüften Stufen, ohne erfundene Erfahrungen, Quellen oder Messwerte.",
+      "version": "1.0.0"
+    }
+  ]
+}
