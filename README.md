@@ -34,6 +34,12 @@ Ein Absatz, ein Zweck. Antwort zuerst. Aktiv und Indikativ. Keine Gedankenstrich
 
 Alle Regeln mit Begründung: [`skills/seo-content-workflow/references/stil.md`](skills/seo-content-workflow/references/stil.md).
 
+### Was der Skill ausführt und abruft
+
+- **Lokal:** `scripts/zaehlen.py` zählt Wörter und Zeichen. Es liest nur die Textdatei, die Claude ihm übergibt, nutzt nur die Python-Standardbibliothek und sendet nichts.
+- **Im Netz:** Der Skill selbst ruft nichts ab. Er weist Claude an, externe Quellen nur dann zu verlinken, wenn Claude sie mit den eigenen Werkzeugen der Sitzung (z. B. Websuche) tatsächlich aufgerufen hat. Ohne diese Werkzeuge bleiben Links Platzhalter.
+- **Daten:** Der Skill speichert nichts und sendet nichts an Dritte. Briefings und Texte bleiben in der Unterhaltung.
+
 ## Installation
 
 ### claude.ai (Web, Desktop, App)
