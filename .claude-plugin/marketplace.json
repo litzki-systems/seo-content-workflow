@@ -7,7 +7,7 @@
   },
   "plugins": [
     {
-      "name": "seo-content-workflow",
+      "name": "litzki-seo-content-workflow",
       "source": "./",
       "description": "Deutschsprachige SEO-Texte in sieben geprüften Stufen, ohne erfundene Erfahrungen, Quellen oder Messwerte.",
       "version": "1.0.0"

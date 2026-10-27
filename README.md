@@ -51,7 +51,7 @@ Alle Regeln mit Begründung: [`skills/seo-content-workflow/references/stil.md`](
 
 ```
 /plugin marketplace add litzki-systems/seo-content-workflow
-/plugin install seo-content-workflow@litzki-systems
+/plugin install litzki-seo-content-workflow@litzki-systems
 ```
 
 Oder von Hand: den Ordner `skills/seo-content-workflow` nach `~/.claude/skills/` kopieren.
@@ -101,4 +101,4 @@ MIT, siehe [LICENSE](LICENSE). Rückmeldungen und Verbesserungen gern als Issue.
 
 It never invents first-hand experience, sources or metrics: missing client experience is marked `[OFFEN: …]` and turned into questions for the client; keyword research and term lists come from the user's own tools; external links are only used if actually fetched. Gender-inclusive language defaults to neutral wording, with the client's style guide or the generic masculine as options.
 
-Install: download `seo-content-workflow.zip` from Releases and upload it in Claude's settings, or in Claude Code run `/plugin marketplace add litzki-systems/seo-content-workflow` and `/plugin install seo-content-workflow@litzki-systems`. The skill's instructions are in German and it writes German only. Licence: MIT.
+Install: download `seo-content-workflow.zip` from Releases and upload it in Claude's settings, or in Claude Code run `/plugin marketplace add litzki-systems/seo-content-workflow` and `/plugin install litzki-seo-content-workflow@litzki-systems`. The skill's instructions are in German and it writes German only. Licence: MIT.
