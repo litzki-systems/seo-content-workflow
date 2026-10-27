@@ -1,5 +1,6 @@
 {
   "name": "litzki-seo-content-workflow",
+  "displayName": "Litzki SEO-Content-Workflow",
   "version": "1.0.0",
   "description": "Deutschsprachige SEO-Texte in sieben geprüften Stufen: Auftrag, Material, Gliederung, Entwurf, Optimierung, Prüfung, Veröffentlichung. Erfindet keine Erfahrungen, Quellen oder Messwerte.",
   "author": {
@@ -18,5 +19,8 @@
     "blog",
     "meta-description",
     "lektorat"
-  ]
+  ],
+  "supportUrl": "https://github.com/litzki-systems/seo-content-workflow/issues",
+  "documentationUrl": "https://github.com/litzki-systems/seo-content-workflow#readme",
+  "privacyPolicyUrl": "https://github.com/litzki-systems/seo-content-workflow#datenschutz"
 }

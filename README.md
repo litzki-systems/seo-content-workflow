@@ -40,6 +40,10 @@ Alle Regeln mit Begründung: [`skills/seo-content-workflow/references/stil.md`](
 - **Im Netz:** Der Skill selbst ruft nichts ab. Er weist Claude an, externe Quellen nur dann zu verlinken, wenn Claude sie mit den eigenen Werkzeugen der Sitzung (z. B. Websuche) tatsächlich aufgerufen hat. Ohne diese Werkzeuge bleiben Links Platzhalter.
 - **Daten:** Der Skill speichert nichts und sendet nichts an Dritte. Briefings und Texte bleiben in der Unterhaltung.
 
+## Datenschutz
+
+Der Skill erhebt, speichert und übermittelt keine personenbezogenen Daten. Er besteht aus Anleitungen und einem lokalen Zählskript. Was mit Unterhaltungen in Claude geschieht, regelt die Datenschutzerklärung von Anthropic. Fragen zum Skill: [Issues](https://github.com/litzki-systems/seo-content-workflow/issues).
+
 ## Installation
 
 ### claude.ai (Web, Desktop, App)
