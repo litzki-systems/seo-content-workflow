@@ -21,10 +21,12 @@ Jede Regel nennt ihren Grund. Wo der Grund im Einzelfall nicht greift, geht Gena
 - **Jeder Satz bringt etwas Neues.** Sätze, die nur ankündigen („Im Folgenden schauen wir uns an …“), zusammenfassen, was gerade stand, oder Stimmung machen, fallen weg.
 - **Übergänge benennen Beziehungen**: deshalb, dagegen, danach, unter dieser Bedingung. Ein Übergang ersetzt keine fehlende Begründung.
 - **Gleiche Dinge gleich benennen.** Heißt es einmal „Beratungsgespräch“, heißt es nicht drei Absätze später „Erstgespräch“, wenn dasselbe gemeint ist. Wechselnde Begriffe lassen Leser vermuten, es gehe um etwas anderes.
+- **Überschriften natürlich formulieren.** H1 und SEO-Titel kommen standardmäßig ohne Doppelpunkt aus. Vermeide das schematische Muster „Keyword: erklärender Untertitel“. Verwende einen Doppelpunkt nur, wenn er eine echte inhaltliche Gliederung ausdrückt oder eine konkrete redaktionelle Vorgabe ihn verlangt. Formuliere den Titel als eigenständige, natürliche Aussage.
 
 ## 2. Satzbau
 
 - **Aktiv mit handelnder Person.** „Das Finanzamt prüft den Antrag“ statt „Der Antrag wird geprüft“. Wer handelt, ist für die Leserin oft die eigentliche Information. Passiv bleibt erlaubt, wenn die handelnde Person wirklich unwichtig oder unbekannt ist.
+- **Konkrete Akteure benennen.** Wenn Menschen eine Aufgabe übernehmen, nenne die verantwortliche Person oder Rolle. Abstrakte Funktionsbegriffe wie „HR“, „die Verwaltung“ oder „das Management“ beschreiben den organisatorischen Bereich, ersetzen jedoch keine bekannten handelnden Personen. Schreibe beispielsweise „HR-Beauftragte koordinieren die Personalplanung“, wenn genau diese Rolle gemeint ist. Vermeide Konstruktionen wie „Für HR entstehen daraus Anforderungen“, wenn eine konkrete Aufgabe beschrieben wird.
 - **Indikativ.** „Das kostet 50 Euro“ statt „Das würde etwa 50 Euro kosten“. Der Konjunktiv macht Aussagen weich, ohne sie genauer zu machen. Erlaubt bleibt er für indirekte Rede (Konjunktiv I) und echte Bedingungen.
 - **Keine Verlaufsformen.** Nicht „am Überlegen sein“, „dabei sein, etwas zu tun“, „gerade dabei sein“. Sie sind umgangssprachlich und verlängern den Satz.
 - **Kurze Sätze, aber keine Telegramme.** Ein Gedanke je Satz; Nebensätze, wenn sie den Gedanken genauer machen. Richtwert: im Mittel unter 15 Wörter.
