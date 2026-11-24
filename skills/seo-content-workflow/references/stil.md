@@ -70,6 +70,8 @@ Neutral heißt nicht umständlich. Lässt sich eine Stelle nur mit einer gestelz
 - Einheitlich im ganzen Text, einschließlich Title, Meta-Description, Alt-Texten und FAQ.
 - **Das Fokus-Keyword steht in der Form, in der gesucht wird**, an seinen SEO-Positionen (Title, H1, Slug; in der Einleitung Such- oder Satzform). „Selbstständig als Ernährungsberater“ bleibt dort so stehen, auch wenn der übrige Text neutral formuliert. Diese Ausnahme steht in der Auftragskarte, damit niemand sie für einen Fehler hält. Sie gilt nur für das Fokus-Keyword, nicht für Personenbezeichnungen aus Begriffslisten oder FAQ-Überschriften.
 
+- **Keyword-Schreibweise und sichtbare Orthografie getrennt prüfen.** Keyword-Tools liefern Suchbegriffe häufig in Kleinschreibung. Übernimm diese Form nicht automatisch in sichtbare Linkanker oder redaktionelle Texte. Erhalte die Keywordphrase und korrigiere Groß- und Kleinschreibung nach den Regeln der Zielsprache, insbesondere bei Substantiven und Abkürzungen. Wenn der Kunde eine unveränderliche Zeichenfolge ausdrücklich verlangt, dokumentiere den Konflikt und hole vor der Korrektur eine Freigabe ein.
+
 ## 5. Zeichensetzung und Hervorhebung
 
 - **Keine Gedankenstriche als Satzverbinder.** Statt „Die Anmeldung ist einfach – sie dauert zehn Minuten“ zwei Sätze: „Die Anmeldung ist einfach. Sie dauert zehn Minuten.“ Der Gedankenstrich als Verbinder ist eines der deutlichsten Kennzeichen maschinell erzeugter Texte, und zwei Sätze lesen sich leichter. Der Bis-Strich in Spannen (10–20 Euro, Mo–Fr) bleibt.
@@ -98,3 +100,12 @@ Diese Wendungen kennzeichnen generische Texte. Ersetze sie durch die konkrete Au
 ## 7. Rechtschreibung
 
 Amtliche Regelung (Duden). Bei Varianten die Duden-Empfehlung, einheitlich im Text. Zahlen bis zwölf im Fließtext als Wort, außer vor Einheiten und in Tabellen.
+
+Zusätzliche Abschlussprüfungen:
+
+- **Komposita:** Prüfe Zusammensetzungen mit Abkürzungen und englischen Fachbegriffen auf die korrekte Bindestrichschreibung, zum Beispiel „HR-Planung“, „Self-Service“ und „HR-Self-Service“.
+- **Parallelkonstruktionen:** Prüfe gleichrangige Satzglieder auf vollständige grammatische Symmetrie. Wiederhole Präpositionen und Bezugswörter, wenn die Konstruktion sie benötigt.
+- **Zahlenschreibung:** Vereinheitliche die Schreibweise innerhalb vergleichbarer Zahlenreihen. Bei Prozentangaben und anderen Zahlen mit Einheiten stehen Ziffern.
+- **Tempus:** Prüfe jeden Tempuswechsel anhand des Zeitbezugs. Historische Befunde und aktuelle Regeln erhalten jeweils ein passendes, konsistentes Tempus.
+- **Datumsbezug:** Formuliere Jahres- und Zeitangaben eindeutig und natürlich.
+
